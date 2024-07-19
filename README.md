@@ -1,5 +1,7 @@
 # Triggle
 
+![Triggle Screenshot](triggleReadme.jpg)
+
 This game is a prototype of a commercial project that is available as open source. This project is developed using Expo. In this game, you have to connect four bars with a rubber band in each turn to make a triangle. The gameplay is simple yet addictive, requiring strategic thinking and careful planning.
 
 ## Table of Contents
