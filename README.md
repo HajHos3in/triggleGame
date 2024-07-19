@@ -22,7 +22,7 @@ Triggle is a part of a larger enterprise project. This repository contains the c
 
 To get started with Triggle, follow these steps:
 
-1. **Clone the repository:**
+1. **Clone And Start:**
    ```bash
    git clone https://github.com/hajhos3in/triggleGame.git
    cd triggleGame
